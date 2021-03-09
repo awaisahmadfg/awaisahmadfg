@@ -1,11 +1,3 @@
-<img
-src=“Images/Untitled design (4).png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
-
-
 <h1 align="center">Hi 👋, I'm Awais Ahmad</h1>
 <h3 align="center">A passionate Machine Learning Engineer From Pakistan</h3>
 
