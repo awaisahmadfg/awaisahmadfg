@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisahmadfg&label=Profile%20views&color=0e75b6&style=flat" alt="awaisahmadfg" /> </p>
 
-- 🌱 I’m currently learning **BlockChain Technologies (Solana)**
+- 🌱 I’m currently learning **BlockChain Technologies (Web3)**
 
 - 👨‍💻 You can also check out my portfolio at [https://awaisahmadfg.github.io/Final.html](https://awaisahmadfg.github.io/Final.html)
 
