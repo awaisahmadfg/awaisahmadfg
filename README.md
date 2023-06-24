@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Awais Ahmad</h1>
-<h3 align="center">A passionate Blockchain Developer From Pakistan</h3>
+<h3 align="center">A passionate Blockchain+REACT JS Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisahmadfg&label=Profile%20views&color=0e75b6&style=flat" alt="awaisahmadfg" /> </p>
 
-- 🌱 I’m expert in Smart Contracts and Web3 **BlockChain Technologies (Web3)**
+- 🌱 I’m expert in REACT JS, Smart Contracts and Web3 **BlockChain Technologies (Web3)**
 
 - 👨‍💻 You can also check out my portfolio at [https://awaisahmadfg.github.io/Final.html](https://awaisahmadfg.github.io/Final.html)
 
