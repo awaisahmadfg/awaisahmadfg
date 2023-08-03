@@ -5,7 +5,7 @@
 
 - 🌱 I’m expert in REACT JS, Smart Contracts and Web3 **BlockChain Technologies (Web3)**
 
-- 👨‍💻 You can also check out my portfolio at [https://awaisahmadfg.github.io/Final.html](https://awaisahmadfg.github.io/Final.html)
+- 👨‍💻 You can also check out my Blockchain Projects at https://github.com/awaisahmadfg/Blockchain-Projects
 
 - 📫 How to reach me **awaisahmadfg@gmail.com**
 
