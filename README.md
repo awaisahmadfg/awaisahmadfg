@@ -36,7 +36,7 @@ I'm a research developer with industry experience in machine learning applicatio
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </div>
 </div>
----
+
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaisahmadfg&show_icons=true&locale=en&layout=compact" alt="awaisahmadfg" /></p>
