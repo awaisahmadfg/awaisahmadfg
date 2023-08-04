@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Awais Ahmad</h1>
 
-I'm a research developer with industry experience in machine learning applications, specializing in natural language processing. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Python, C/C++, and ML libraries (Pytorch, Tensorflow).
+Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Custom Smart Contracts, and React JS. Proficient in Swapping DEXES, DEFI, and Manual/Automated Auditing. Experienced with Ethereum, Algorand, Polygon, Binance, and Arbitrum Nova. My passion lies in utilizing these technologies to address real-life business use cases and drive innovation. Dedicated to delivering High-Quality code and collaborating with teams to achieve Project Success.
  
   ### You can find me on:
 
