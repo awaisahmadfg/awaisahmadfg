@@ -6,7 +6,7 @@
 
 Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Custom Smart Contracts, and React JS. Proficient in Swapping DEXES, DEFI, and Manual/Automated Auditing. Dedicated to delivering Secure High-Quality code and collaborating with teams to achieve Project Success
  
-  ### You can find me on:
+  ### https://join.skype.com/invite/WNOJVfGc9B97You can find me on:
 
 <div align="center">
 <a href="https://twitter.com/awaisahmadfg1">
@@ -39,6 +39,6 @@ Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Cus
 <div align="center">
 
 ### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white)
 </div>
 </div>
