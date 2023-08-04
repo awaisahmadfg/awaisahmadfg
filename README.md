@@ -23,7 +23,6 @@ Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Cus
 
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaisahmadfg&show_icons=true&locale=en&layout=compact" alt="awaisahmadfg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awaisahmadfg&show_icons=true&locale=en" alt="awaisahmadfg" /></p>
 </div>
