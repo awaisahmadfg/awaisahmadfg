@@ -6,7 +6,7 @@
 
 Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Custom Smart Contracts, and React JS. Proficient in Swapping DEXES, DEFI, and Manual/Automated Auditing. Dedicated to delivering Secure High-Quality code and collaborating with teams to achieve Project Success
  
-  ### ![image](https://github.com/awaisahmadfg/awaisahmadfg/assets/58293801/ef54ffda-e2ee-4777-bb8a-d8cd5cf69688)You can find me on:
+  ### ✉You can find me on:
 
 <div align="center">
 <a href="https://twitter.com/awaisahmadfg1">
