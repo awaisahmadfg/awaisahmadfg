@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Awais Ahmad</h1>
 
-Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Custom Smart Contracts, and React JS. Proficient in Swapping DEXES, DEFI, and Manual/Automated Auditing. Experienced with Ethereum, Algorand, Polygon, Binance, and Arbitrum Nova. Dedicated to delivering High-Quality code and collaborating with teams to achieve Project Success.
+Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Custom Smart Contracts, and React JS. Proficient in Swapping DEXES, DEFI, and Manual/Automated Auditing. Dedicated to delivering Secure High-Quality code and collaborating with teams to achieve Project Success
  
   ### You can find me on:
 
