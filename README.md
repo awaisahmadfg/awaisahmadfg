@@ -24,7 +24,8 @@ I'm a research developer with industry experience in machine learning applicatio
 
 ---
 <div align="center">
-### 👩‍💻 Languages and Tools
+
+ ### 👩‍💻 Languages and Tools
 
 <div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
