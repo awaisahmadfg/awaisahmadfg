@@ -12,6 +12,10 @@ Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Cus
 <a href="https://www.linkedin.com/in/%F0%9F%91%8B-awais-ahmad-a92689242/">
     <img alt="Amine Elhattami Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="live:.cid.5580b281bd862b73">
+    <img alt="Your Skype Profile" src="https://img.shields.io/badge/Skype-FF0000?style=for-the-badge&logo=skype&logoColor=white">
+</a>
+
 
 </div>
   <br>
