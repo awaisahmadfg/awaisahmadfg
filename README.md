@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Awais Ahmad</h1>
 
 I'm a research developer with industry experience in machine learning applications, specializing in natural language processing. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Python, C/C++, and ML libraries (Pytorch, Tensorflow).
@@ -33,3 +34,4 @@ I'm a research developer with industry experience in machine learning applicatio
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaisahmadfg&show_icons=true&locale=en&layout=compact" alt="awaisahmadfg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awaisahmadfg&show_icons=true&locale=en" alt="awaisahmadfg" /></p>
+</div>
