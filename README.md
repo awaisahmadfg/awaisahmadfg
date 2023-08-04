@@ -3,13 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisahmadfg&label=Profile%20views&color=0e75b6&style=flat" alt="awaisahmadfg" /> </p>
 
-- 🌱 I’m expert in REACT JS, Smart Contracts and Web3 **BlockChain Technologies (Web3)**
+I'm a research developer with industry experience in machine learning applications, specializing in natural language processing. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Python, C/C++, and ML libraries (Pytorch, Tensorflow).
+ 
+  ### You can find me on:
 
-- 👨‍💻 You can also check out my Blockchain Projects at https://github.com/awaisahmadfg/Blockchain-Projects
-
-- 📫 How to reach me **awaisahmadfg@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
+<div align="center">
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAm1n3e&screen_name=amine_elhattami">
+    <img alt="Amine Elhattami Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/amine-elhattami-73841947/">
+    <img alt="Amine Elhattami Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://amine-elhattami.medium.com/">
+    <img alt="Amine Elhattami Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og">
+    <img alt="Youtube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+</div>
+  <br>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
