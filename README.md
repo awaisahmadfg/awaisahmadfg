@@ -22,21 +22,6 @@ I'm a research developer with industry experience in machine learning applicatio
   <br>
 </div>
 
----
-<div align="center">
-
- ### 👩‍💻 Languages and Tools
-
-<div>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-</div>
-</div>
-
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaisahmadfg&show_icons=true&locale=en&layout=compact" alt="awaisahmadfg" /></p>
