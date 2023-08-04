@@ -36,3 +36,6 @@ Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Cus
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+![](https://komarev.com/ghpvc/?username=Developing-Gamer&style=flat)
+
