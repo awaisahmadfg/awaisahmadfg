@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Awais Ahmad</h1>
-<h3 align="center">Smart Contract Engineer | web3.o Developer | REACT JS Developer | Security Auditor</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisahmadfg&label=Profile%20views&color=0e75b6&style=flat" alt="awaisahmadfg" /> </p>
 
 I'm a research developer with industry experience in machine learning applications, specializing in natural language processing. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Python, C/C++, and ML libraries (Pytorch, Tensorflow).
  
