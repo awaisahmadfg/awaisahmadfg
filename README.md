@@ -26,6 +26,8 @@ Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Cus
 
 
 ---
+
+<div align="center">
 ### 📊GitHub Stats :
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awaisahmadfg&show_icons=true&locale=en" alt="awaisahmadfg" /></p>
@@ -35,7 +37,4 @@ Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Cus
 ---
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-![](https://komarev.com/ghpvc/?username=Developing-Gamer&style=flat)
-
+</div>
