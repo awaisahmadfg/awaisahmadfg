@@ -1,6 +1,9 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Awais Ahmad</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisahmadfg&label=Profile%20views&color=0e75b6&style=flat" alt="awaisahmadfg" /> </p>
+
+
 Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Custom Smart Contracts, and React JS. Proficient in Swapping DEXES, DEFI, and Manual/Automated Auditing. Dedicated to delivering Secure High-Quality code and collaborating with teams to achieve Project Success
  
   ### You can find me on:
