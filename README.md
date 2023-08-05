@@ -39,6 +39,6 @@ Highly skilled and motivated Blockchain Developer with expertise in WEB3 JS, Cus
 <div align="center">
 
 ### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white&textDecoration=None)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white)
 </div>
 </div>
