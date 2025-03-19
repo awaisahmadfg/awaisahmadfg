@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=awaisahmadfg&label=Profile%20views&color=0e75b6&style=flat" alt="awaisahmadfg" /> </p>
 
 
-Highly Skilled & Motivated Full Stack Blockchain Developer of SOLIDITY & RUST with expertise in WEB3 JS Integration, Custom Smart Contracts, and React JS. Proficient in Swapping DEXES, DEFI, and Manual/Automated Auditing. Dedicated to delivering Secure High-Quality code and collaborating with teams to achieve Project Success
+Highly Skilled & Motivated Full Stack Blockchain Developer of SOLIDITY & RUST with expertise in WEB3 JS Integration, Custom Smart Contracts, React JS and Node JS. Proficient in Swapping DEXES, DEFI, and Manual/Automated Auditing. Dedicated to delivering Secure High-Quality code and collaborating with teams to achieve Project Success
  
   ### ✉You can find me on:
 
